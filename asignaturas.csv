@@ -1,13 +1,13 @@
 ASIGNATURA,CODIGO,SEMESTRE,NUCLEO_CURRICULAR,CREDITOS
-Algebra y trigonometria,ALG131,1,Ciencias Básicas,3
-Cálculo Diferencial,CAL132,1,Ciencias Básicas,3
-Geometria Vectorial y Analítica,GEO133,1,Ciencias Básicas,3
-Vivamos la Universidad,VIV114,1,Ciencias Básicas,1
-Inglés I,ING115,1,Formación Complementaria,1
-Lectoescritura,LEC136,1,Formación Complementaria,3
-Introducción a la Ingeniería Industrial,INT117,1,Generales,1
-Gestión de las organizaciones,GES238,2,Administración y finanzas,3
-Habilidades Gerenciales,HAB239,2,Administración y finanzas,3
+Algebra y trigonometria,ALG131,1,Ciencias Básicas,3,
+Cálculo Diferencial,CAL132,1,Ciencias Básicas,3,
+Geometria Vectorial y Analítica,GEO133,1,Ciencias Básicas,3,
+Vivamos la Universidad,VIV114,1,Ciencias Básicas,1,
+Inglés I,ING115,1,Formación Complementaria,1,
+Lectoescritura,LEC136,1,Formación Complementaria,3,
+Introducción a la Ingeniería Industrial,INT117,1,Generales,1,
+Gestión de las organizaciones,GES238,2,Administración y finanzas,3,
+Habilidades Gerenciales,HAB239,2,Administración y finanzas,3,
 Álgebra Lineal,ALG231,2,Ciencias Básicas,3
 Cálculo Integral,CAL232,2,Ciencias Básicas,3
 Descubriendo la Física,DES233,2,Ciencias Básicas,3
@@ -20,10 +20,10 @@ Probabilidad e Inferencia Estadistica,PRO339,3,Métodos Cuantitativos,3
 Teoría General de Sistemas,TEO331,3,Métodos Cuantitativos,3
 Ingeniería Económica,ING432,4,Administración y Finanzas,3
 Electiva en Física,ELE433,4,Ciencias Básicas,3
-Inglés IV,ING414,4Formación Complementaria,1
-Diseño de Experimentos y Análisis de Regresión,DIS435,Métodos Cuantitativos,3
+Inglés IV,ING414,4,Formación Complementaria,1
+Diseño de Experimentos y Análisis de Regresión,DIS435,4,Métodos Cuantitativos,3
 Optimización,OPT436,4,Métodos Cuantitativos,3
-Gestión de Métodos y Tiempos,GES437,Producción Logística y Calidad,4
+Gestión de Métodos y Tiempos,GES447,4,Producción Logística y Calidad,4
 Gestión Financiera,GES538,5,Administración y Finanzas,3
 Laboratorio Integrado de Física,LAB519,5,Ciencias Básicas,1
 Inglés V,ING511,5,Formación Complementaria,1
