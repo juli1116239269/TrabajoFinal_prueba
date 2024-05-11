@@ -1,8 +1,58 @@
 ASIGNATURA,CODIGO,SEMESTRE,NUCLEO_CURRICULAR,CREDITOS
-Algebra_y_trigonometria,ALG131,1,Ciencias_Básicas,3
-Cálculo_Diferencial,CAL132,1,Ciencias_Básicas,3
-Geometria_Vectorial_y_Analítica,GEO133,1,Ciencias_Básicas,3
-Vivamos_la_Universidad,VIV114,1,Ciencias_Básicas,1
-Inglés_I,ING115,1,Formación_Complementaria,1
-Lectoescritura,LEC136,1,Formación_Complementaria,3
-Introducción_a_la_Ingeniería_Industrial,INT117,1,Generales
+Algebra y trigonometria,ALG131,1,Ciencias Básicas,3
+Cálculo Diferencial,CAL132,1,Ciencias Básicas,3
+Geometria Vectorial y Analítica,GEO133,1,Ciencias Básicas,3
+Vivamos la Universidad,VIV114,1,Ciencias Básicas,1
+Inglés I,ING115,1,Formación Complementaria,1
+Lectoescritura,LEC136,1,Formación Complementaria,3
+Introducción a la Ingeniería Industrial,INT117,1,Generales,1
+Gestión de las organizaciones,GES238,2,Administración y finanzas,3
+Habilidades Gerenciales,HAB239,2,Administración y finanzas,3
+Álgebra Lineal,ALG231,2,Ciencias Básicas,3
+Cálculo Integral,CAL232,2,Ciencias Básicas,3
+Descubriendo la Física,DES233,2,Ciencias Básicas,3
+Inglés II,ING214,2,Formación Complementaria,1
+Gestión Contable,GES335,3,Administración y Finanzas,3
+Física Mecánica,FIS336,3,Ciencias Básicas,3
+Inglés III,ING317,3,Formación Complementaria, 1
+Algoritmia y Programación,ALG338,3,Métodos Cuantitativos,3
+Probabilidad e Inferencia Estadistica,PRO339,3,Métodos Cuantitativos,3
+Teoría General de Sistemas,TEO331,3,Métodos Cuantitativos,3
+Ingeniería Económica,ING432,4,Administración y Finanzas,3
+Electiva en Física,ELE433,4,Ciencias Básicas,3
+Inglés IV,ING414,4Formación Complementaria,1
+Diseño de Experimentos y Análisis de Regresión,DIS435,Métodos Cuantitativos,3
+Optimización,OPT436,4,Métodos Cuantitativos,3
+Gestión de Métodos y Tiempos,GES437,Producción Logística y Calidad,4
+Gestión Financiera,GES538,5,Administración y Finanzas,3
+Laboratorio Integrado de Física,LAB519,5,Ciencias Básicas,1
+Inglés V,ING511,5,Formación Complementaria,1
+Formación Ciudadana y Constitucional,FOR512,5,Formación Complementaria,1
+Dinámica de Sistemas,DIN533,5,Métodos Cuantitativos,3
+Muestreo y Series de Tiempo,MUE534,5,Métodos Cuantitativos,3
+Procesos Estocásticos y Análisis de Decisión,PRO535,5,Métodos Cuantitativos,3
+Gestión por Procesos,GES536,5,Producción Logística y Calidad,3
+Gestión Tecnológica,GES637,6,Administración y Finanzas,3
+Legislación,LEG638,6,Administración y Finanzas,3
+Electiva en Humanidades I,ELE639,6,Electivas Socio Humanísticas,3
+Inglés VI,ING611,6,Formación Complementaria,1
+Simulación Discreta,SIM632,6,Métodos Cuantitativos,3
+Formulación de Proyectos de Investigación,FOR633,6,Generales,3
+Normalización y Control de la Calidad,NOR634,6,Producción Logística y Calidad,3
+Formulación y Evaluación de Proyectos de Inversión,FOR735,7,Administración y Finanzas,3
+Emprendimiento,EMP726,7,Administración y Finanzas,2
+Electiva en Humanidades II,ELE737,7,Electivas Socio Humanísticas,3
+Énfasis Profesional I,ENF738,7,Énfasis Profesional,3
+Electiva Complementaria I,ELE739,7,Formación Complementaria,3
+Diseño de Sistemas Productivos,DIS731,7,Producción Logística y Calidad,3
+Gestión de Proyectos,GES832,8,Administración y Finanzas,3
+Electiva en Humanidades III,ELE833,8,Electivas Socio Humanísticas,3
+Énfasis Profesional II,ENF834,8,Énfasis Profesional,3
+Electiva Complementaria II,ELE835,8,Formación Complementaria,3
+Administración de la Producción y del Servicio,ADM836,8,Producción Logística y Calidad,3
+Electiva en Humanidades IV,ELE937,9,Electivas Socio Humanísticas,3
+Énfasis Profesional III,ENF938,9,Énfasis Profesional,3
+Electiva Complementaria III,ELE939,9,Formación Complementaria,3
+Gestión de la Cadena de Abastecimiento,GES931,9,Producción Logística y Calidad,3
+Ingeniería del Mejoramiento Continuo,ING932,9,Producción Logística y Calidad,3
+Práctica Profesional,ENF102,10,Generales,12
